@@ -2,7 +2,7 @@
     ob_start();
     session_start();
     include_once './cauhinh/ketnoi.php';
-  
+  hello
 ?>
 <html>
     <head><title>Nguyen Chau Shop</title>
